@@ -1,4 +1,4 @@
-# kittycraft.pl# regulamin - 
+# kittycraft.pl regulamin - 
 
 1.
 2.
